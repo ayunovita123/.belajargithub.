@@ -1,1 +1,2 @@
-kita akan mempelajari cara penggunaan github
+hello world
+hello world
